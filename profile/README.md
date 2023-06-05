@@ -9,7 +9,7 @@
 
 - **이미지 첨부**
 
-&nbsp &nbsp <img src = "https://github.com/FaceRecognition0/.github/assets/95980876/33ecf3a7-a4b5-4216-a745-4605b6924678.jpg" width="30%" height="30%">
+    <img src = "https://github.com/FaceRecognition0/.github/assets/95980876/33ecf3a7-a4b5-4216-a745-4605b6924678.jpg" width="30%" height="30%">
 <br><br>
 - **결과**
 ![image](https://github.com/FaceRecognition0/.github/assets/95980876/e3b3a5ad-5c6a-496a-8997-190c0b9af209)
