@@ -1,5 +1,5 @@
 ## 아키텍처
-![image](https://github.com/FaceRecognition0/.github/assets/95980876/f5465f2c-1678-467d-aa24-37e6e37bbd54){: width="50%" height="50%"}
+<img src = "https://github.com/FaceRecognition0/.github/assets/95980876/f5465f2c-1678-467d-aa24-37e6e37bbd54.jpg" width="50%" height="50%">
 
 ## 프로젝트 목적
 **Spring**과 **Flask**의 통신
